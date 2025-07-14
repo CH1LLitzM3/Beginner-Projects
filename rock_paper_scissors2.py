@@ -1,5 +1,4 @@
 import random
-from os import replace
 
 print("welcome to rock paper scissors\nquit using \"quit\"")
 while True:
